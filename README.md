@@ -1,4 +1,4 @@
-# Avyra Game Download Platform (Spring Boot + React (Tailwind CSS))
+# Avyra Game Download Platform 
 ![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
 ![Spring Boot](https://img.shields.io/badge/Backend-SpringBoot-green?logo=springboot)
 ![Tailwind CSS](https://img.shields.io/badge/Style-TailwindCSS-38bdf8?logo=tailwindcss)
